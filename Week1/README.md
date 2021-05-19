@@ -41,3 +41,39 @@ Some portions of your research studies might need to be adjusted to meet partici
 
 section divider
 With these considerations in mind, you'll be set up for success when conducting research with participants and collecting feedback about your designs. Remember, language and communication are an art that can take years to master — and you're just getting started!
+
+---
+
+### Get to know the seven elements of a research plan
+
+- **Project Background** - The project background answers the question: What led you to conduct this research? You don't have to provide a long drawn out history, just a few lines is good.
+
+You might explain the project background like this: We're creating a new app to help people find and schedule dog walkers. We need to find out if the main user experience, finding and scheduling a dog walker, is easy for users to complete.
+
+- **Research Goals** - Next, your plan should include research goals. 
+
+Ask yourself questions like, What design problems are you trying to solve? And how will the results of the research impact our design decisions? Use your answers to create goals for your research project. 
+
+- **Research Questions** - What are the questions your research is trying to answer? For example, our research questions might be, how long does it take a user to find and book a dog walker in the app? 
+
+And what can we learn from the user flow or the steps that users take to book a dog walker?
+
+
+- **Key Performance Indicators (KPIs)** - Another important element of your plan is the key performance indicators, or KPIs. As a reminder, key performance indicators are critical measures of progress toward an end goal. 
+
+You might ask, how can you measure your progress toward the research goal? For our app, one thing we should track is how many users in the research study complete their search for a dog walker. So the KPI would be the percentage of users who book a dog walker.
+
+
+- **Methodology** - This is where you document the steps you'll take to conduct your research. How will you collect data and how will you analyze the data once you get it? 
+
+To find out if users are able to find and schedule a dog walker in our new app, we might want to conduct a survey of prospective users. To analyze the survey results, we will use a spreadsheet and identify trends.  
+
+- **Participants** - In addition, your research plan lists the research participants. Who will you survey? What characteristics do the participants have? For example, you might want to recruit participants who are dog owners with full-time jobs and who go out for activities more than once a week. 
+
+The types of participants you select should be based on your research goals. Also, make sure that participants you select do not bias your results.
+
+- **Script** -  The final step in your research plan is to script the questions you ask study participants as they test your product. 
+
+The script is also known as the discussion guide. Make sure these questions are specific in speaking to the KPIs you're trying to measure. For instance, you could ask, did you face any challenges when trying to book a dog walker in the app? 
+
+---
