@@ -77,3 +77,42 @@ The types of participants you select should be based on your research goals. Als
 The script is also known as the discussion guide. Make sure these questions are specific in speaking to the KPIs you're trying to measure. For instance, you could ask, did you face any challenges when trying to book a dog walker in the app? 
 
 ---
+
+### Start building a research plan: project background, research goals, and research questions
+
+##### How to write the project background 
+
+- identify the signals that indicated reseach was necessary 
+- Describe any previous research 
+- List insights the research will generate
+
+**Insight** - An insight is an observation about people that helps you understand the user or their needs from a new perspective.
+
+**Foundational research goal** - Understand why or if you should build the product
+
+**Post-launch research goal** - Understand if the product worked as expected
+
+**Research questions** provide focus and structure for your research study. They will be the main topics in a presentation. 
+
+##### How to write research questions: 
+
+- Actionable 
+- Specific 
+- Avoid leading questions 
+
+**Quantitative research** - Focuses on data that can be gather by counting or measuring 
+
+**Qualitative research** - focuses on observations about why and how things happen -- think written descriptions. 
+
+Quantitative research focuses on data that can be gathered by counting or measuring -- think numbers. 
+
+Qualitative research focuses on observations about why and how things happen -- think written descriptions. 
+
+Let's revisit the example from our dog walking app. The first research question -- On average, how many times a week does a user hire a dog walker through the app? -- will give you quantitative numerical data. 
+
+The second research question -- What frustrated users most about finding a dog walker through the app? -- will give you qualitative information. 
+
+---
+
+
+
