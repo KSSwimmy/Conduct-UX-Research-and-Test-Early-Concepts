@@ -165,4 +165,39 @@ If you’re able to answer “yes” to each of these questions — terrific job
 
 ---
 
+### Continue building a research plan: KPIs
+
+**Key performance indicators**- These are critical measures of progress toward an end goal.
+
+**Time on Task**- This measures how long it takes for a user to complete a task.
+
+
+**Use of Navigation vs. search**- This KPI indicates the number of people who use a website or app's navigation compared to the number of people who use the search functionality.
+
+**User error rates**- The third KPI, user error rates, indicate the parts of a design that cause users to make errors.
+
+**Drop-off rates**- The fourth KPI to keep in mind is drop-off rates, which show how many users abandon the experience.
+
+**Conversion rates**- On the other hand, a conversion rate is a number you want to see increase.
+
+**System Usability Scale (SUS)**- A system usability scale, or SUS, is a questionnaire to measure the usability of your designs.
+
+Key performance indicators 
+
+- Time on task 
+- Use of Navigation vs. search
+- User error rates 
+- Drop-off rates
+- Conversion rates
+- System Usability Scale (SUS)
+
+--
+
+
+
+
+
+
+
+
 
