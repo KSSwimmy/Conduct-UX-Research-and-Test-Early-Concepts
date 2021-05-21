@@ -236,6 +236,40 @@ These seven KPIs are important measures of success for your research study and f
 
 ---
 
+### Finish building a research plan: Script
+
+#### Tips for writing a usability script 
+
+- Use the same set of questions for each interview.
+- Ask oen-ended questions 
+- Encourage elaboration 
+- Ask the same question from different angles 
+- Don't mention other users 
+- Don't ask leading questions 
+
+---
+
+### Test your knowledge on UX research participants and scripts
+
+Why is it important to engage participants with diverse perspectives and abilities in a usability study? Select all that apply.
+
+- To investigate how people with disabilities interact with the product
+- To avoid sample bias for selected groups
+
+
+Imagine you are developing a script for an upcoming usability study. Which of the following should you do in the introduction?
+
+- Remind participants there are no right or wrong answers
+
+Which of the following example script questions explicitly encourages elaboration?
+
+- Can you share why that activity was difficult for you?
+
+---
+
+
+
+
 
 
 
