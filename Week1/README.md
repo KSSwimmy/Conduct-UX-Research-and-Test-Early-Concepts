@@ -267,6 +267,10 @@ Which of the following example script questions explicitly encourages elaboratio
 
 ---
 
+### Activity Exemplar: Finish building your research plan: Script
+
+---
+
 
 
 
