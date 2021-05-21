@@ -85,3 +85,18 @@ Of course, unmoderated usability studies have some disadvantages too.
 When you’re choosing whether to conduct a moderated or an unmoderated usability study, there are a lot of things to consider! Both can help you get the research data you need to improve your product; it’s just a matter of deciding which one will do it better. Keeping these advantages and disadvantages in mind can help you make the right choice for your specific project and research goals. 
 
 ---
+### Explore usability study best practices: Before the study begins
+
+How to begin a moderated usability study 
+
+1. Buid a rapport with participants 
+2. Thank participants for coming 
+2. Remind participants to be open and honest 
+4. Have participants fill out paperwork, like an NDA 
+5. Explain the focus of the study and what participants will give feedback on
+6. Establish ground rules for the study 
+7. Remind Participants that they are not being tested 
+8. Keep your emotions neutral
+
+---
+
