@@ -160,9 +160,17 @@ Keeping these best practices in mind will put you well on your way to conducting
 
 --- 
 
+### Identify biases when interviewing usability study participants
+
+Identify a method you can use to reduce the possibility of social desirability bias during the interview process.
+
+- Ask participants which statements they most relate to
 
 
+**Serial position effect** is a psychological bias that states that when given a list of items, people are more likely to remember the first few and the last few, while the items in the middle tend to blur.
 
+**Friendliness bias** describes the tendency of people to agree with those they like in order to maintain a non-confrontational conversation.
 
+The last bias moderators need to guard against is the **social desirability bias**, which describes the tendency for people to answer questions in a way that will be viewed favorably by others.
 
 
