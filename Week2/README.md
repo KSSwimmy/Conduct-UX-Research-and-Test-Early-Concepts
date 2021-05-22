@@ -173,4 +173,17 @@ Identify a method you can use to reduce the possibility of social desirability b
 
 The last bias moderators need to guard against is the **social desirability bias**, which describes the tendency for people to answer questions in a way that will be viewed favorably by others.
 
+---
+
+### Reduce bias in interviews
+
+How to reduce bias when conducting usability studies 
+- Identify and admit your own biases 
+- Find participants from a representative sample 
+- Define the research criteria beforehand 
+- Phrase interview questions thoughtfully 
+- Let participants express themselves fully and in their own words
+- Be mindful of your body language
+
+---
 
