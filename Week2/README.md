@@ -232,7 +232,11 @@ As you set out into the world as an up-and-coming UX designer, remember that tak
 
 ---
 
+What can the design team add to a note-taking spreadsheet before the study begins?
 
+- They can add a list of anticipated participant behaviors in the observation column.
+
+---
 
 
 
