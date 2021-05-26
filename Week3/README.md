@@ -20,3 +20,17 @@ You might remember that an **insight** is an observation about people that helps
 
 ---
 
+### Gather and organize data
+
+An **affinity** is a feeling of like-mindedness or compatibility toward something or someone.
+
+An **affinity diagram** is a method of synthesizing that organizes data into groups with common themes or relationships.
+
+Fill in the blank: When creating an affinity diagram, you should ___ the sticky notes into groups of common themes and patterns.
+
+Cluster
+
+---
+
+
+
