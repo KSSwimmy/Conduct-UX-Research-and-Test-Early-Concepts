@@ -98,5 +98,26 @@ Now it's your turn to sort through research data, and have some fun while you’
 If you want to learn even more about affinity diagramming, check out this article from Nielsen Norman Group that highlights some best practices for affinity diagramming.
 
 ---
+### Qualities of strong insights
 
+##### Strong insights 
+- Grounded in read data 
+- Answer the research questions 
+- Easy to understand
+- Increase empathy for the user experience 
+- inspire direct action 
 
+---
+
+### Create a strong presentation 
+
+Prioritize research insights from the most urgent to the least urgent 
+
+- P0 = Must be fixed for your product to work
+    - Prevented the user from completing the main user flow 
+    - Deceptive patter 
+    - inequitable or inaccessible 
+- P1 = include in a future prototype to be tested
+- P2 = Address farther in the future 
+
+---
