@@ -121,3 +121,11 @@ Prioritize research insights from the most urgent to the least urgent
 - P2 = Address farther in the future 
 
 ---
+
+Review criteria
+
+Your completed insight identification template will be assessed out of six points using the following criteria:
+
+2 points: Created an affinity diagram based on findings
+2 points: Categorized those findings into themes
+2 points: Generated at least three actionable insights based on themes
